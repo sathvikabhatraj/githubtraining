@@ -1,0 +1,5 @@
+this is chat appln
+emoji
+type opt
+color 
+vibrant
